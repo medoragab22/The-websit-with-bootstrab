@@ -1,4 +1,4 @@
-*{
+ *{
     margin: 0;
     padding: 0;}
     .carousel{
@@ -59,7 +59,7 @@
     display: block;
     margin-top: -450px;
     margin-bottom: 250px;
-    margin-left: 1465px;
+    margin-left: 1480px;
    }
    .icon1:hover i{
       color: rgb(93, 93, 235);
@@ -533,7 +533,7 @@
       }
       .design-iteam1{
         width: 70%;
-        height: 510px;
+        height: 500px;
         margin: auto;
         margin-top: 10px;
         margin-left: 50px;
@@ -565,7 +565,7 @@
           display: block;
           margin-top: -450px;
           margin-bottom: 250px;
-          margin-left: 480px;
+          margin-left: 465px;
          
       }
       .infor{
@@ -595,7 +595,7 @@
       }
       .design-iteam1{
         width: 80%;
-        height: 445px;
+        height: 430px;
         margin: auto;
         margin-top: 10px;
         margin-left: 50px;
